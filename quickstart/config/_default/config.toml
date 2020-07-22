@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://unruffled-heisenberg-fea363.netlify.app"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
