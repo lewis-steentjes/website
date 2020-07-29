@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "Lewis's Blog"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -42,14 +42,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Lewis Steentjes"
+email = "lewissteentjes@pm.me"
+whoami = "Radio Maker"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Christchurch, New Zealand"
+organization = "Tait International"
+link = "https://www.lewissteentjes.com/"
 
 # sidebar
 enableBio = true
@@ -143,11 +143,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:lewissteentjes@pm.me"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/Lewis.Steentjes/"
+  twitter = ""
+  github = "https://github.com/lpsteentjes"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
