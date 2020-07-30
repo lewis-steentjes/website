@@ -43,7 +43,7 @@ pubPaginate = 20
 
 # whoami
 myname = "Lewis Steentjes"
-email = "lewissteentjes@pm.me"
+email = "contact@lewissteentjes.com"
 whoami = "Radio Maker"
 bioImageUrl = ""
 useGravatar = false
