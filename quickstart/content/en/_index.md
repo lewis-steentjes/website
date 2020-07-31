@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Lewis's Very Cool Blog
     subtitle:
-      - The world’s fastest framework for building websites
+      - Welcome to my humble shop
     titleColor: 
     titleShadow: true
     titleFontSize: 44

@@ -1,5 +1,5 @@
 baseURL = "http://www.lewissteentjes.com/"
-title = "Hugo Zzo Theme"
+title = "Lewis's Very Cool Blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"

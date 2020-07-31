@@ -74,8 +74,8 @@ enableSidebarPostsByOrder = false
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
-enableThemeChange = true
+enableLangChange = false
+enableThemeChange = false
 
 # service
 googleTagManager = "" # GTM-XXXXXX
@@ -143,7 +143,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:lewissteentjes@pm.me"
+  email = "mailto:contact@lewissteentjes.com"
   phone = ""
   facebook = "https://www.facebook.com/Lewis.Steentjes/"
   twitter = ""

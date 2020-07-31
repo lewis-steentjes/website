@@ -8,14 +8,14 @@ enableToc: true
 enableTocContent: false
 author: Jeus
 authorEmoji: 🎅
-pinned: true
+pinned: false
 tags:
 - hugo
 series:
 -
 categories:
 - hugo
-image: images/feature2/color-palette.png
+image: images/icons/rose.png
 ---
 
 ## Code Syntax Highlighting
