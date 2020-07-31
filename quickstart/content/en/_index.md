@@ -8,7 +8,7 @@ header:
     title:
       - Lewis's Very Cool Blog
     subtitle:
-      - Welcome to my humble shop
+      - Welcome to my very humble shop
     titleColor: 
     titleShadow: true
     titleFontSize: 44
