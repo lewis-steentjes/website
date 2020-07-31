@@ -4,7 +4,7 @@ date: 2020-07-31T12:47:44+12:00
 description: "My first blog post, come have a read."
 draft: false
 hideToc: false
-enableToc: true
+enableToc: false
 enableTocContent: false
 author: Lewis
 authorEmoji: 🦉
