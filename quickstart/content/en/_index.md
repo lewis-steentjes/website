@@ -6,7 +6,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - Lewis's Very Cool Blog
+      - Lewis' Very Cool Blog
     subtitle:
       - Welcome to my very humble shop
     titleColor: 

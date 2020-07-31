@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\quickstart",
-    "\\quickstart\\config",
-    "\\quickstart\\config\\_default"
+    "\\quickstart\\data",
+    "\\quickstart\\themes",
+    "\\quickstart\\themes\\zzo\\layouts",
+    "\\quickstart\\themes\\zzo\\layouts\\partials"
   ],
-  "SelectedNode": "\\quickstart\\config\\_default\\params.toml",
-  "PreviewInSolutionExplorer": false
+  "PreviewInSolutionExplorer": true
 }

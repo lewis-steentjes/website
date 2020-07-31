@@ -6,7 +6,7 @@ date = "2020-07-31"
 +++
 
 
-Thankyou for visiting my blog. 
+Thank you for visiting my blog. 
 
 I've made this as a place for me to post about projects that I'm working on. 
 
