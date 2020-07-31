@@ -58,13 +58,13 @@ enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
+enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = true
-hideToc = false
+hideToc = true
 tocFolding = true
 tocPosition = "inner" # inner, outer
-enableTocSwitch = true
+enableTocSwitch = false
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
@@ -75,7 +75,7 @@ showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = false
-enableThemeChange = false
+enableThemeChange = true
 
 # service
 googleTagManager = "" # GTM-XXXXXX
