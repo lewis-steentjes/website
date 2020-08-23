@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\quickstart",
-    "\\quickstart\\data",
-    "\\quickstart\\themes",
-    "\\quickstart\\themes\\zzo\\layouts",
-    "\\quickstart\\themes\\zzo\\layouts\\partials"
+    "\\quickstart\\content",
+    "\\quickstart\\content\\en",
+    "\\quickstart\\content\\en\\posts",
+    "\\quickstart\\themes"
   ],
+  "SelectedNode": "\\quickstart",
   "PreviewInSolutionExplorer": true
 }
