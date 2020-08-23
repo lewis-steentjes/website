@@ -80,7 +80,8 @@ Overall, the project was a great success and my microphone sounds better than ev
 
 
 ---
-ARGH, the audio broke again
+ARGH, the audio broke again. This next section may or may not work when you come here. I haven't figured it out yet.
+---
 
 
 Here's a few different audio samples that I recorded. A fair warning though: they are LOUD. 
