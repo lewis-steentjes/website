@@ -82,7 +82,7 @@ Overall, the project was a great success and my microphone sounds better than ev
 ---
 
 
-Here's a few different audio samples that I recorded. A fair warning though: they are LOUD. 
+<h5>Here's a few different audio samples that I recorded. A fair warning though: they are LOUD. </h5>
 
 
 My old microphone from Dick Smith
