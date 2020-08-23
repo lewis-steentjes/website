@@ -80,27 +80,18 @@ Overall, the project was a great success and my microphone sounds better than ev
 
 
 ---
-ARGH, the audio broke again. This next section may or may not work when you come here. I haven't figured it out yet.
----
 
 
 Here's a few different audio samples that I recorded. A fair warning though: they are LOUD. 
 
 
 My old microphone from Dick Smith
-<audio controls>
-  <source src="/sounds/phantom-power/oldmic.mp3" type="audio/mpeg">
-</audio>
-
-<br/>
+{{< audio src="/sounds/phantom-power/oldmic.mp3" class="mpeg" >}}
 
 The BM-800, with a gain of 20dB to account for the quietness.
-<audio controls>
-  <source src="/sounds/phantom-power/newmic20db.mp3" type="audio/mpeg">
-</audio> 
-
+{{< audio src="/sounds/phantom-power/newmic20db.mp3" class="mpeg" >}}
 
 The BM-800, with 48V phantom power! 😎 ⚡
-<audio controls>
-  <source src="/sounds/phantom-power/newmicphantompower.mp3" type="audio/mpeg">
-</audio> 
+{{< audio src="/sounds/phantom-power/newmicphantompower.mp3" class="mpeg" >}}
+
+
