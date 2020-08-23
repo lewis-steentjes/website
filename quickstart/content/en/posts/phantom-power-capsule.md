@@ -80,15 +80,18 @@ Overall, the project was a great success and my microphone sounds better than ev
 
 
 ---
+ARGH, the audio broke again
+
 
 Here's a few different audio samples that I recorded. A fair warning though: they are LOUD. 
 
 
-My old miicrophone from Dick Smith
+My old microphone from Dick Smith
 <audio controls>
   <source src="/sounds/phantom-power/oldmic.mp3" type="audio/mpeg">
 </audio>
 
+<br/>
 
 The BM-800, with a gain of 20dB to account for the quietness.
 <audio controls>
