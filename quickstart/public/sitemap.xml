@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://example.org/ko/sitemap.xml</loc>
-		
-	   	<lastmod>2019-10-19T11:44:14+09:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/posts/phantom-power-capsule/</loc>
+    <lastmod>2020-08-23T17:39:57+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/posts/</loc>
+    <lastmod>2020-08-23T17:39:57+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/tags/project/</loc>
+    <lastmod>2020-08-23T17:39:57+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/tags/</loc>
+    <lastmod>2020-08-23T17:39:57+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/posts/initial-commit/</loc>
+    <lastmod>2020-07-31T12:47:44+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/tags/meta/</loc>
+    <lastmod>2020-07-31T12:47:44+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/about/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lewissteentjes.com/series/</loc>
+  </url>
+  
+</urlset>

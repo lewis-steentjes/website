@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Project on Lewis&#39; Very Cool Blog</title>
+    <link>https://www.lewissteentjes.com/tags/project/</link>
+    <description>Recent content in Project on Lewis&#39; Very Cool Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@lewissteentjes.com (Lewis Steentjes)</managingEditor>
+    <webMaster>contact@lewissteentjes.com (Lewis Steentjes)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 23 Aug 2020 17:39:57 +1200</lastBuildDate>
+    
+        <atom:link href="https://www.lewissteentjes.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Phantom Power Capsule</title>
+        <link>https://www.lewissteentjes.com/posts/phantom-power-capsule/</link>
+        <pubDate>Sun, 23 Aug 2020 17:39:57 +1200</pubDate>
+        <author>contact@lewissteentjes.com (Lewis Steentjes)</author>
+        <atom:modified>Sun, 23 Aug 2020 17:39:57 +1200</atom:modified>
+        <guid>https://www.lewissteentjes.com/posts/phantom-power-capsule/</guid>
+        <description>Something I like doing in my free time is catching up with my friends using VOIP software like Skype (RIP) or Discord. For years I&amp;rsquo;ve been using a dinky little microphone that I bought from Dick Smith (also RIP) when I was 14. Here&amp;rsquo;s what it looks like:
+  Now, I don&amp;rsquo;t really think it&amp;rsquo;s fair on my friends to have to put up with that so a while ago I bought myself a cheap BM-800 condenser microphone from AliExpress along with a microphone stand for it.</description>
+        
+        <dc:creator>Lewis</dc:creator>
+        <media:content url="https://www.lewissteentjes.com/images/icons/bm800.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

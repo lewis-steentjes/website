@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>meta on Lewis&#39; Very Cool Blog</title>
+    <link>https://www.lewissteentjes.com/tags/meta/</link>
+    <description>Recent content in meta on Lewis&#39; Very Cool Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@lewissteentjes.com (Lewis Steentjes)</managingEditor>
+    <webMaster>contact@lewissteentjes.com (Lewis Steentjes)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 12:47:44 +1200</lastBuildDate>
+    
+        <atom:link href="https://www.lewissteentjes.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Initial Commit</title>
+        <link>https://www.lewissteentjes.com/posts/initial-commit/</link>
+        <pubDate>Fri, 31 Jul 2020 12:47:44 +1200</pubDate>
+        <author>contact@lewissteentjes.com (Lewis Steentjes)</author>
+        <atom:modified>Fri, 31 Jul 2020 12:47:44 +1200</atom:modified>
+        <guid>https://www.lewissteentjes.com/posts/initial-commit/</guid>
+        <description>This is my first blog post, a test to make sure I&amp;rsquo;ve set this up correctly and can start learning how to make new posts in markdown.
+I&amp;rsquo;ve been interested in the idea of making a website for a while now. Recently, I came across a YouTube video by Chris Titus where he shows his workflow for making blogposts on his blog using Netlify to host his static Hugo site.</description>
+        
+        <dc:creator>Lewis</dc:creator>
+        <media:content url="https://www.lewissteentjes.com/images/icons/rose.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>meta</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

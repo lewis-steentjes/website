@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Lewis&#39; Very Cool Blog</title>
+    <link>https://www.lewissteentjes.com/tags/</link>
+    <description>Recent content in Tags on Lewis&#39; Very Cool Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@lewissteentjes.com (Lewis Steentjes)</managingEditor>
+    <webMaster>contact@lewissteentjes.com (Lewis Steentjes)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 23 Aug 2020 17:39:57 +1200</lastBuildDate>
+    
+        <atom:link href="https://www.lewissteentjes.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Project</title>
+        <link>https://www.lewissteentjes.com/tags/project/</link>
+        <pubDate>Sun, 23 Aug 2020 17:39:57 +1200</pubDate>
+        <author>contact@lewissteentjes.com (Lewis Steentjes)</author>
+        
+        <guid>https://www.lewissteentjes.com/tags/project/</guid>
+        <description></description>
+        
+        <dc:creator>Lewis Steentjes</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>meta</title>
+        <link>https://www.lewissteentjes.com/tags/meta/</link>
+        <pubDate>Fri, 31 Jul 2020 12:47:44 +1200</pubDate>
+        <author>contact@lewissteentjes.com (Lewis Steentjes)</author>
+        
+        <guid>https://www.lewissteentjes.com/tags/meta/</guid>
+        <description></description>
+        
+        <dc:creator>Lewis Steentjes</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
