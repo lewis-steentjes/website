@@ -1,6 +1,6 @@
 ---
 title: "Plasma Speaker"
-date: 2022-03-02T20:54:00+13:00
+date: 2022-02-03T20:54:00+13:00
 description: "I made a plasma speaker out of a decommisioned 45kV laser power supply"
 draft: false
 hideToc: false
