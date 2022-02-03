@@ -1,7 +1,7 @@
 ---
 title: "Plasma Speaker (Part 1)"
 date: 2022-02-02T17:22:00+13:00
-description: "Work for my plasma speaker project has begun!"
+description: "I made a plasma speaker out of a decommisioned 45kV laser power supply"
 draft: false
 hideToc: false
 enableToc: false
@@ -10,7 +10,7 @@ author: Lewis
 authorEmoji: 🦉
 tags: 
 - Project
-image: images/icons/3_phase_AC_waveform.png
+image: images/icons/plasma.png
 ---
 
 This is a proof of concept project for the development of my plasma speaker controller. It started off as us looking for a way to produce [Lichtenberg figures](https://en.wikipedia.org/wiki/Lichtenberg_figure) in wood by using a decommisioned/faulty 45kV laser power supply.
