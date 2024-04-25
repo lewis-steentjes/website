@@ -44,11 +44,11 @@ pubPaginate = 20
 # whoami
 myname = "Lewis Steentjes"
 email = "contact@lewissteentjes.com"
-whoami = "Radio Maker"
+whoami = "The Navigator"
 bioImageUrl = ""
 useGravatar = false
 location = "Christchurch, New Zealand"
-organization = "Tait International"
+organization = ""
 link = "https://www.lewissteentjes.com/"
 
 # sidebar
