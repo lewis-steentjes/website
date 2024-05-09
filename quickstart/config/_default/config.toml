@@ -1,4 +1,4 @@
-baseURL = "https://www.lewissteentjes.com/"
+baseURL = "https://old-hugo-blog.netlify.app/"
 title = "Lewis' Very Cool Blog"
 theme = "zzo"
 
